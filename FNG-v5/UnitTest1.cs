@@ -5,7 +5,6 @@ namespace FNG_v5
     public class Tests
     {
 
-        [Timeout(200)]
 
         [SetUp]
         public void Setup()
@@ -22,6 +21,7 @@ namespace FNG_v5
         [TestCase(7, 13)]
         [TestCase(8, 21)]
         [TestCase(44, 701408733)]
+        [Timeout(200)]
 
         public void validIndex(int index, int expected)
         {
@@ -32,6 +32,7 @@ namespace FNG_v5
         }
 
         [TestCase(-1, -321)]
+        [Timeout(200)]
 
         public void inValidIndex(int index, int expected)
         {
