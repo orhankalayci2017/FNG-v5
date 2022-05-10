@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F6A72430-E60F-4B2A-9202-A6498E087065}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FNG-v5/FibonacciNumberGeneratorClass.cs">
+    <Files>
+      <File FileName="FNG-v5/UnitTest1.cs" Line="40" Column="63" />
+      <File FileName="FNG-v5/FibonacciNumberGeneratorClass.cs" Line="5" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FNG-v5" expanded="True" selected="True">
+            <Node name="FNG-v5" expanded="True">
+              <Node name="FNG_v5" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FNG-v5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
