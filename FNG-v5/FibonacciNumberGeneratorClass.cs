@@ -8,7 +8,7 @@ namespace FNG_v5
         {
         }
 
-        private bool checkIfIndexValid(int index) => ((index >= 0) && (index < 50));
+        private bool checkIfIndexValid(int index) => ((index >= 0) && (index < 47));
 
         internal int errorCode()
         {
