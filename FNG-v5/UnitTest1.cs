@@ -21,7 +21,7 @@ namespace FNG_v5
         [TestCase(7, 13)]
         [TestCase(8, 21)]
         [TestCase(44, 701408733)]
-        [TestCase(47, 701408733)]
+        [TestCase(46, 701408733)]
 
         [Timeout(200)]
 
