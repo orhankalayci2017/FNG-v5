@@ -21,7 +21,8 @@ namespace FNG_v5
         [TestCase(7, 13)]
         [TestCase(8, 21)]
         [TestCase(44, 701408733)]
-        
+        [TestCase(50, 701408733)]
+
         [Timeout(200)]
 
         public void validIndex(int index, int expected)
