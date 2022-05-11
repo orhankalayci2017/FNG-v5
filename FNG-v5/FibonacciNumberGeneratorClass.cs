@@ -8,16 +8,13 @@ namespace FNG_v5
         {
         }
 
-        private bool checkIfIndexValid(int index) => ((index >= 0) && (index < 50));
+        private bool checkIfIndexValid(int index) => ((index >= 0) && (index < 47));
 
-        internal int errorCode()
-        {
-            return -321;
-        }
+        internal int errorCode => -321;
 
         internal int getFibonnaci(int index)
         {
-            if (!checkIfIndexValid(index)) return errorCode();
+            if (!checkIfIndexValid(index)) return errorCode;
             return fibonnaciNumberCalculatingBusinessRules(index);
 
         }
