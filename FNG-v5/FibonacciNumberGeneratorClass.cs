@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace FNG_v5
 {
@@ -16,13 +16,11 @@ namespace FNG_v5
         {
             if (!checkIfIndexValid(index)) return errorCode;
             return fibonnaciNumberCalculatingBusinessRules(index);
-
         }
 
 
         internal int fibonnaciNumberCalculatingBusinessRules(int index)
         {
-
             int fibonacciNumber = 0;  
             if (index == 0) return fibonacciNumber;
             
@@ -38,13 +36,9 @@ namespace FNG_v5
 
                 twoBefore = oneBefore;
                 oneBefore = fibonacciNumber;
-
             }
-
+            
             return fibonacciNumber;
-
         }
-
-
     }
 }
