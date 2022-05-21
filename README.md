@@ -2,11 +2,11 @@
 Fibonacci Number Generator - Given an index the code returns the fibonacci number which is located at the order of index. 
 
 For example:
-index = 1 >> fibonacci number is 1
-index = 2 >> fibonacci number is 1
-index = 3 >> fibonacci number is 2
-index = 4 >> fibonacci number is 3
-index = 5 >> fibonacci number is 5
+index = 1 >> fibonacci number is 1 |
+index = 2 >> fibonacci number is 1 |
+index = 3 >> fibonacci number is 2 |
+index = 4 >> fibonacci number is 3 |
+index = 5 >> fibonacci number is 5 |
 
 This code is generated using TDD.
 
